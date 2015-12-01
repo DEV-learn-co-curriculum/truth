@@ -93,3 +93,5 @@ assert.strictEqual(response, false)
 
 
 
+
+<a href='https://learn.co/lessons/truth' data-visibility='hidden'>Learn.co resource</a>
